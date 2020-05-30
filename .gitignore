@@ -1,0 +1,6 @@
+__pycache__
+.vscode
+bin
+build
+dist
+*.exe
